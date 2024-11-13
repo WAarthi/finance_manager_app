@@ -20,7 +20,7 @@ Installation
 Clone this repository to your local machine:
 
 bash
-git clone https://github.com/your-username/finance-manager.git
+git clone https://github.com/WAarthi/finance_manager_app.git
 Navigate to the project directory:
 
 bash
