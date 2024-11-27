@@ -12,7 +12,7 @@ A simple command-line application to help you manage your finances effectively. 
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/WAarthi/finance_manager_app.git
    ```
 2. Navigate to the project directory:
    ```bash
